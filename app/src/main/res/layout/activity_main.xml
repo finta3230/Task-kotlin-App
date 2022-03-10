@@ -5,14 +5,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="25dp"
     android:background="@drawable/gradient_bg"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:layout_above="@+id/bottom_nav">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_nav"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="?android:attr/activatedBackgroundIndicator"
+        app:itemIconTint="#fff"
+        app:itemTextColor="#fff"
+        app:menu="@menu/nav_menu">
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
 
     <RelativeLayout
         android:id="@+id/mainContainer"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:padding="25dp"
         android:visibility="visible">
 
         <LinearLayout
@@ -200,7 +213,7 @@
                 </LinearLayout>
 
                 <Space
-                    android:layout_width="wrap_content"
+                    android:layout_width="10dp"
                     android:layout_height="wrap_content">
 
                 </Space>
@@ -422,4 +435,5 @@
         android:layout_height="wrap_content">
 
     </TextView>
+
 </RelativeLayout>
