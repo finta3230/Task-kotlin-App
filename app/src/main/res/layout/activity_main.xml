@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="?android:attr/activatedBackgroundIndicator"
-        app:itemIconTint="#FFFF"
+        app:itemIconTint="@drawable/bottom_navigation_selector"
         app:itemRippleColor="#979797"
         app:itemTextColor="#FFFF"
         app:layout_constraintBottom_toBottomOf="parent"

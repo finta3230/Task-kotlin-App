@@ -4,13 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Task-kotlin-App/app/src/main/res/drawable/current_weather.xml" value="0.1955" />
+        <entry key="..\:/Task-kotlin-App/app/src/main/res/drawable/gradient_bg.xml" value="0.151" />
         <entry key="..\:/Task-kotlin-App/app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.1035" />
         <entry key="..\:/Task-kotlin-App/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1035" />
         <entry key="..\:/Task-kotlin-App/app/src/main/res/drawable/location.xml" value="0.1035" />
         <entry key="..\:/Task-kotlin-App/app/src/main/res/drawable/location_weather.xml" value="0.1035" />
         <entry key="..\:/Task-kotlin-App/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Task-kotlin-App/app/src/main/res/layout/forecast_page.xml" value="0.36666666666666664" />
-        <entry key="..\:/Task-kotlin-App/app/src/main/res/layout/fragment_forecast.xml" value="0.1875" />
+        <entry key="..\:/Task-kotlin-App/app/src/main/res/layout/fragment_forecast.xml" value="0.33" />
         <entry key="..\:/Task-kotlin-App/app/src/main/res/layout/fragment_weather.xml" value="0.33" />
         <entry key="..\:/Task-kotlin-App/app/src/main/res/layout/temp_layout.xml" value="0.2630208333333333" />
         <entry key="..\:/Task-kotlin-App/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
