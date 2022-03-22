@@ -6,7 +6,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:padding="25dp"
     android:background="@drawable/gradient_bg"
-    tools:context=".weather">
+    tools:context=".Weather">
 
     <TextView
         android:id="@+id/location"
