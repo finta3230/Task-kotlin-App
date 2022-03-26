@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GroupIconsVIew">
+        <attr name="sunriseTime" format="string"/>
+        <attr name="sunsetTime" format="string"/>
+        <attr name="windSpeed" format="string"/>
+        <attr name="pressureNumber" format="string"/>
+        <attr name="humidityVolume" format="string"/>
+        <attr name="windOrientation" format="string"/>
+
+        <attr name="windOrientationImage" format="reference"/>
+    </declare-styleable>
+</resources>
