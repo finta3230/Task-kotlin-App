@@ -53,7 +53,6 @@ dependencies {
     implementation "androidx.cardview:cardview:$cardview_version"
 
     // Recyclerview
-    def recyclerview_version = "1.0.0"
-    implementation "androidx.recyclerview:recyclerview:$recyclerview_version"
+    implementation "androidx.recyclerview:recyclerview:1.2.1"
 
 }
